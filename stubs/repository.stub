@@ -1,0 +1,10 @@
+<?php
+
+namespace {{ namespace }};
+
+use App\Repository\Contracts\I{{ class }}Repository;
+
+class {{ class }}Repository implements I{{ class }}Repository
+{
+    //
+}
